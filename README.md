@@ -1,1 +1,1 @@
-# Crop-Classification
+# Crop Classification Project
